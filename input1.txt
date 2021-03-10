@@ -1,0 +1,2 @@
+Hello, My name is Nihar Patel.
+This is a Text file for testing code.
